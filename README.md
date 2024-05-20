@@ -22,7 +22,7 @@
 - **Lightweight**: Minimal impact on system resources, running seamlessly standalone on demand with just 1.5mb working set.
    **IT DOES NOT RUN IN THE BACKGROUND**
 
-  <img src="Resources/working-set.png" alt="Screenshot" width="600">
+  <img src="Resources/working-set.png" alt="Screenshot" width="1000">
    
 - **Open Source**: Completely open source, allowing customization and improvements by the community/anyone.
 
