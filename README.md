@@ -12,20 +12,28 @@
 
 <img src="Resources/preview.png" alt="Screenshot" width="400">
 
-## Overview
+<h2 style="color: yellow;">Overview</h2>
+
 
 **Tray Launcher** is a lightweight Windows application [only 1,180 kb] and [working set 1.5 mb] designed to enhance your productivity by efficiently managing the system tray. Originally developed as an AutoHotkey (AHK) script, this tool launches the system tray on demand and smartly collapses it when not needed, keeping your workspace organized and clutter-free.
 
-## Features
+<strong><h2 style="color: yellow;">Features</h2></strong>
 
-- **On-Demand Launch**: Quickly access the system tray whenever you need it on a click rather than key combination Win + B and Return.
-- **Smart Auto-Collapse**: Automatically collapses the system tray and exit app when it's not in use and loose focus, helping maintain a clean desktop environment.
-- **Lightweight**: Minimal impact on system resources, running seamlessly standalone on demand with just 1.5mb working set.
-   **IT DOES NOT RUN IN THE BACKGROUND**
+
+- <p style="color: yellow;">On-Demand Launch</p>Quickly access the system tray whenever you need it on a click rather than key combination Win + B and Return.
+ <br>
+
+- <strong><p style="color: yellow;">Smart Auto-Collapse</p></strong>Automatically collapses the system tray and exit app when it's not in use and loose focus, helping maintain a clean desktop environment.
+ <br>
+
+- <strong><p style="color: yellow;">Lightweight</p></strong>Minimal impact on system resources, running seamlessly standalone on demand with just 1.5mb working set.
+
+   <strong><p style="color: #26ff00;">IT DOES NOT RUN IN THE BACKGROUND</p></strong>
 
   <img src="Resources/working-set.png" alt="Screenshot" width="1000">
-   
-- **Open Source**: Completely open source, allowing customization and improvements by the community/anyone.
+  <br>
+  
+- <strong><p style="color: yellow;">Open Source</p></strong>Completely open source, allowing customization and improvements by the community/anyone.
 
 ## Installation
 
@@ -55,6 +63,15 @@ Contributions are welcome! If you have ideas for improvements or have found a bu
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
+
+## VirusTotal Detections
+
+- The app is compiled through AHK2EXE.
+- The deployment is reproducible, download AHK v1 from sources and compile the clone script!
+
+
+      
+  [Detections](https://www.virustotal.com/gui/file/7f3a5fea468aff5994069bd6acfe7fbb7e33f43a9f4ba08e547029e2ff6acb5d/detection)  <img src="Resources/virustotal.png" alt="Screenshot" width="10">
 
 ## License
 
