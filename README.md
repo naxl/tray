@@ -5,7 +5,7 @@
 # Tray ('Systray') - A system tray launcher for windows!
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Downloads](https://img.shields.io/github/downloads/naxl/tray/tree/main/Releases/Tray.exe)](https://github.com/naxl/tray/releases)
+[![Downloads](https://img.shields.io/github/downloads/naxl/tray/total)](https://github.com/naxl/tray/releases)
 [![AHK Version](https://img.shields.io/badge/AHK-1.1.37.2-green.svg)](https://www.autohotkey.com/)
 
 
