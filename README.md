@@ -1,4 +1,5 @@
-## THERE WAS NO LAUNCHER OR COMMAND LINE FOR SYSTEM TRAY!! SO I MADE ONE :V
+## THERE WAS NO LAUNCHER OR COMMAND LINE FOR SYSTEM TRAY!! 
+## SO I MADE ONE :V
 
 
 # Tray ('Systray') - A system tray launcher for windows!
