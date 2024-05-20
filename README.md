@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/yourusername/system-tray-launcher/issues).
+For any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/naxl/tray/issues).
