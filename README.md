@@ -20,7 +20,7 @@
 <strong><h2 style="color: yellow;">Features</h2></strong>
 
 
-- <p style="color: yellow;">On-Demand Launch</p>Quickly access the system tray whenever you need it on a click rather than key combination Win + B and Return.
+- <strong><p style="color: yellow;">On-Demand Launch</p></strong>Quickly access the system tray whenever you need it on a click rather than key combination Win + B and Return.
  <br>
 
 - <strong><p style="color: yellow;">Smart Auto-Collapse</p></strong>Automatically collapses the system tray and exit app when it's not in use and loose focus, helping maintain a clean desktop environment.
