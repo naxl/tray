@@ -12,13 +12,16 @@
 <img src="Resources/preview.png" alt="Screenshot" width="400">
 
 **⭐ Please star this project if this was helpful to you!!**<br><br>
-![GitHub Repo stars](https://img.shields.io/github/stars/naxl/tray?style=flat&logo=stackblitz&logoColor=White&label=Stars&color=%23FFFB00)
+<a href="#">![GitHub Repo stars](https://img.shields.io/github/stars/naxl/tray?style=flat&logo=stackblitz&logoColor=White&label=Stars&color=%23FFFB00)</a>
 
+<h2 style="color: yellow;">Purpose</h2>
+
+Sick of the awkward **Win+B** and **Enter** dance to access your system tray?! Not first, that's for sure! I scoured online all over the internet for a more sophisticated approach, but I was unable to find anything for as simple as this, got inspired to make Tray Launcher and it fixes that specifically. With a simple single click from a convenient desktop shortcut, you can quickly access your tray icons anytime you need them and manage apps. Additionally, it **automatically puts the tray back** after you're finished, maintaining a tidy and orderly workspace. This implies that you may now focus on being productive and have a smoother workflow!
 
 <h2 style="color: yellow;">Overview</h2>
 
 
-**Tray Launcher** is a lightweight Windows application [only 1,180 kb] and [working set 1.5 mb] designed to enhance your productivity by efficiently managing the system tray. Originally developed as an AutoHotkey (AHK) script, this tool launches the system tray on demand and smartly collapses it when not needed, keeping your workspace organized and clutter-free.
+**Tray** launcher is a lightweight Windows application [only 1,180 kb] and [working set 1.5-.6 mb] designed to enhance your productivity by efficiently managing the system tray. Originally developed as an AutoHotkey (AHK) script, this tool launches the system tray on demand and smartly collapses it when not needed, keeping your workspace organized and clutter-free.
 
 <strong><h2 style="color: yellow;">Features</h2></strong>
 
@@ -70,7 +73,8 @@ Contributions are welcome! If you have ideas for improvements or have found a bu
 - The app is compiled through AHK2EXE.
       
   [Detections](https://www.virustotal.com/gui/file/7f3a5fea468aff5994069bd6acfe7fbb7e33f43a9f4ba08e547029e2ff6acb5d/detection)  <img src="Resources/virustotal.png" alt="Screenshot" width="10">
-  - False positives : 1/73 (requested), also the script is the direct compilation, so you can <strong>reproduce the executable.</strong>
+  - False positives : 1/73 (requested) [only coz it detects script inside]
+  - Also the script is the direct compilation, so you can <strong>create/reproduce your own executable.</strong>
 
   #### Steps to reproduce executable!
   - The deployment is reproducible, download AHK v1 and AHK v2 from [sources](https://www.autohotkey.com/download/), run the AHK Dash and compile the cloned script!
