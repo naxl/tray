@@ -1,15 +1,19 @@
-### THERE WAS NO LAUNCHER OR COMMAND LINE FOR SYSTEM TRAY!! SO I MADE ONE :V
+##### THERE WAS NO LAUNCHER OR COMMAND LINE FOR SYSTEM TRAY!! SO I MADE ONE :V
 
 
 # Tray ('Systray') - A system tray launcher for windows!
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![AHK Version](https://img.shields.io/badge/AHK-1.1.37.2-green.svg)](https://www.autohotkey.com/)
-[![Latest Release](https://img.shields.io/github/v/release/naxl/tray)](https://github.com/naxl/tray/releases)
-[![Downloads](https://img.shields.io/github/downloads/naxl/tray/total)](https://github.com/naxl/tray/releases)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat&logo=securityscorecard&logoColor=white&label=License&color=%235EFF)](https://opensource.org/licenses/Apache-2.0)
+[![AHK Version](https://img.shields.io/badge/AHK-1.1.37.2-green.svg?style=flat&logo=hetzner&logoColor=white&label=AHK&color=%26ff00)](https://www.autohotkey.com/)
+[![Latest Release](https://img.shields.io/github/v/release/naxl/tray?logo=jetpackcompose&logoColor=white&label=Releases)](https://github.com/naxl/tray/releases)
+[![Downloads](https://img.shields.io/github/downloads/naxl/tray/total?logo=substack&logoColor=white&label=Downloads)](https://github.com/naxl/tray/releases)
 
 
 <img src="Resources/preview.png" alt="Screenshot" width="400">
+
+**⭐ Please star this project if this was helpful to you!!**<br><br>
+![GitHub Repo stars](https://img.shields.io/github/stars/naxl/tray?style=flat&logo=stackblitz&logoColor=White&label=Stars&color=%23FFFB00)
+
 
 <h2 style="color: yellow;">Overview</h2>
 
@@ -20,14 +24,12 @@
 
 
 - <strong><p style="color: yellow;">On-Demand Launch</p></strong>Quickly access the system tray whenever you need it on a click rather than key combination Win + B and Return.
- <br>
 
 - <strong><p style="color: yellow;">Smart Auto-Collapse</p></strong>Automatically collapses the system tray and exit app when it's not in use and loose focus, helping maintain a clean desktop environment.
- <br>
 
 - <strong><p style="color: yellow;">Lightweight</p></strong>Minimal impact on system resources, running seamlessly standalone on demand with just 1.5mb working set.
 
-   <strong><p style="color: #26ff00;">IT DOES NOT RUN IN THE BACKGROUND</p></strong>
+   <strong><p style="color: #26ff00;">!!! ** It DOES NOT Run in the BACKGROUND ** !!!</p></strong>
 
   <img src="Resources/working-set.png" alt="Screenshot" width="1000">
   <br>
@@ -66,10 +68,12 @@ Contributions are welcome! If you have ideas for improvements or have found a bu
 ## VirusTotal Detections
 
 - The app is compiled through AHK2EXE.
-- The deployment is reproducible, download AHK v1 from sources and compile the clone script!
       
   [Detections](https://www.virustotal.com/gui/file/7f3a5fea468aff5994069bd6acfe7fbb7e33f43a9f4ba08e547029e2ff6acb5d/detection)  <img src="Resources/virustotal.png" alt="Screenshot" width="10">
   - False positives : 1/73 (requested), also the script is the direct compilation, so you can <strong>reproduce the executable.</strong>
+
+  #### Steps to reproduce executable!
+  - The deployment is reproducible, download AHK v1 and AHK v2 from [sources](https://www.autohotkey.com/download/), run the AHK Dash and compile the cloned script!
 
 ## License
 
