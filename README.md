@@ -1,5 +1,4 @@
-## THERE WAS NO LAUNCHER OR COMMAND LINE FOR SYSTEM TRAY!! 
-## SO I MADE ONE :V
+# THERE WAS NO LAUNCHER OR COMMAND LINE FOR SYSTEM TRAY!! SO I MADE ONE :V
 
 
 # Tray ('Systray') - A system tray launcher for windows!
@@ -49,7 +48,7 @@ Download Here [Releases](https://github.com/naxl/tray/releases)
 
 1. Extract the downloaded ZIP file if git clone.
 2. Run `Tray.exe` to directly launch the systray, it acts as a shortcut.
-3. THE APP EXITS AUTOMATICALLY, and won't keep running in the background. It's a Run-Once tool!
+3. THE APP EXITS AUTOMATICALLY, and won't keep running in the background. It's a ONCLICK run tool!
 
 ## Contributing
 
@@ -68,10 +67,9 @@ Contributions are welcome! If you have ideas for improvements or have found a bu
 
 - The app is compiled through AHK2EXE.
 - The deployment is reproducible, download AHK v1 from sources and compile the clone script!
-
-
       
   [Detections](https://www.virustotal.com/gui/file/7f3a5fea468aff5994069bd6acfe7fbb7e33f43a9f4ba08e547029e2ff6acb5d/detection)  <img src="Resources/virustotal.png" alt="Screenshot" width="10">
+  - False positives : 1/73 (requested), also the script is the direct compilation, so you can <strong>reproduce the executable.</strong>
 
 ## License
 
