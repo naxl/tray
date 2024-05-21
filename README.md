@@ -7,6 +7,8 @@
 [![AHK Version](https://img.shields.io/badge/AHK-1.1.37.2-green.svg?style=flat&logo=hetzner&logoColor=white&label=AHK&color=%26ff00)](https://www.autohotkey.com/)
 [![Latest Release](https://img.shields.io/github/v/release/naxl/tray?logo=jetpackcompose&logoColor=white&label=Releases)](https://github.com/naxl/tray/releases)
 [![Downloads](https://img.shields.io/github/downloads/naxl/tray/total?logo=substack&logoColor=white&label=Downloads)](https://github.com/naxl/tray/releases)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fnaxl%2Ftray.json&style=flat&show=unique&logo=steelseries&logoColor=%23FFFFFF&label=Views&color=%23FF0077)
+
 
 
 <img src="Resources/preview.png" alt="Screenshot" width="400">
