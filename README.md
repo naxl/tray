@@ -14,7 +14,7 @@
 <img src="Resources/preview.png" alt="Screenshot" width="400">
 
 **⭐ Please star this project if this was helpful to you!!**<br><br>
-<a href="#">![GitHub Repo stars](https://img.shields.io/github/stars/naxl/tray?style=flat&logo=stackblitz&logoColor=white&label=Stars&color=%23FFFB00)</a>
+[![GitHub Repo stars](https://img.shields.io/github/stars/naxl/tray?style=flat&logo=stackblitz&logoColor=white&label=Stars&color=%23FFFB00)](#)
 
 <h2 style="color: yellow;">Purpose</h2>
 
